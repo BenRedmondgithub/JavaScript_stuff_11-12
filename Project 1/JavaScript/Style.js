@@ -13,10 +13,15 @@ console.log(x);
 // var, let, const
 
 let firstName = 'Bill'
-let lastName = 'Mcdonold'
+let lastName = 'Mcdonald'
 
-let fullName = 'Bill Mcdonold'
+let fullName = 'Bill Mcdonald'
 
 let age = 65;
 
-console.log( fullName, age, lastName, firstName)
+console.log(lastName, firstName, age)
+
+console.log ()
+
+
+//String
