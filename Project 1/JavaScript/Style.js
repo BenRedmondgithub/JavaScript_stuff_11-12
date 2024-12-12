@@ -1,12 +1,12 @@
-console.log('Hello World')
+// console.log('Hello World')
 
-console.log(100)
+// console.log(100)
 
-console.log(20, 'Hello', true)
+// console.log(20, 'Hello', true)
 
-const x = 3000;
+// const x = 3000;
 
-console.log(x);
+// console.log(x);
 
 
 //Ways to Declare a Variable 
