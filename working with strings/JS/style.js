@@ -1,7 +1,7 @@
-let x;
+let number = 100;
 
-const name = 'John';
+number = number + 10;
 
-const age = 31;
+number += 10;
 
-x = 
+console.log(number);
